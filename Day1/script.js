@@ -1,0 +1,1 @@
+document.write("<h1>i will learn java script</h1>")
